@@ -1,0 +1,114 @@
+body {
+	background-color: #E7E7E7;  /* para hacer comentarios */
+	background-image: url(https://media.giphy.com/media/8tcWgxsOfsdPy/giphy.gif);
+	background-size: 1500px;
+	width: 100%;
+	font-size: 250;
+}
+body h1 {
+	font-weight: bolder;
+	color: yellow;
+	outline: double;
+	align-content: center;
+}
+iframe {
+	align: center;
+}	
+main {
+	display: flex;
+	align: center;
+}
+div {
+	background-color: #B7EEFF;
+}
+.Dulces {
+	font-weight: bold;
+	color: #FF0000;	
+}
+#Duvalines {
+	color: #FF1111;
+}
+#Chicles {
+	color: #FF2424;
+}
+#Tamarindos {
+	color: #FF3838;
+}
+div {
+	background-image: url(http://ratonblogger.com/wp-content/uploads/2015/07/Notidad.jpg);
+	background-size: 100%;
+	border: 2px solid red;
+}
+.Cereales {
+	font-weight: bold;
+	color: #0400FF;
+}
+#Zucaritas {
+	color: #005AFF;
+}
+#FrootLoops {
+	color: #008DFF;
+}
+#ChocoKrispis {
+	color: #00A6FF;
+}
+.Carnes {
+	color: #7A0000;
+}
+#CostillasCerdo {
+	color: #780A0A;
+}
+#Arrachera {
+	color: #771717;
+}
+#Chorizos {
+	color: #782525;
+}
+.Refrescos {
+	color: #29A400;
+}
+#Mirinda {
+	color: #2EB700;
+}
+#Pepsi {
+	color: #34D200;
+}
+#SevenUp {
+	color: #3DF300;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+#rojo {
+	color: green;
+	font-size: 30px;	
+}
+.astro {
+	color: blue;
+	font-size:80px;
+	background-color: white;
+}
+.dulces {
+	width:400px;   /* SI TIENE PUNTO ES CLASE */
+}
+/* para hacer comentarios */
+#paletas1 {
+	width:800px;height:100px;	/* SI TIENE HASHTAG ES ID */
+}
